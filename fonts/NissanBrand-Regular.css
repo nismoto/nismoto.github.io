@@ -2,6 +2,7 @@
 font-family: 'NissanBrand-Regular';
 font-style: normal;
 font-weight: 400;
+src: url('https://cdn.jsdelivr.net/gh/nismoto/nismoto.github.io/fonts/NissanBrand-Regular.woff') format('woff'),
 src: url('https://cdn.jsdelivr.net/gh/nismoto/nismoto.github.io/fonts/NissanBrand-Regular.woff2') format('woff2');
 font-display: swap;
 }
