@@ -1,11 +1,7 @@
 @font-face {
 font-family: 'nissan_brandregular';
-src: url('nissanbrand-regular.eot');
-src: url('nissanbrand-regular.eot?#iefix') format('embedded-opentype'),
-url('nissanbrand-regular.woff2') format('woff2'),
-url('nissanbrand-regular.woff') format('woff'),
-url('nissanbrand-regular.ttf') format('truetype'),
-url('nissanbrand-regular.svg#nissan_brandregular') format('svg');
+src: url('nissanbrand-regular.woff2') format('woff2'),
+url('nissanbrand-regular.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
