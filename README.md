@@ -1,3 +1,2 @@
 # nismoto.github.io
-Logo, fonts Nissan.
-nismoto.blogspot.com
+Logo and fonts Nissan for https://nismoto.blogspot.com
